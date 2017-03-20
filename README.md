@@ -8,4 +8,4 @@ I preceded the exercises contained here with a reading of an [ebook by Joel Grus
 
 My first attempt was with the random forest approach; then I proceeded to try a simple neural network, a combination of dimensional reduction and support vector machines, and intend to finish with a convoluted neural network.  My choice of approaches is largely inspired by seeing the work others have done with this same data set on [Kaggle](https://www.kaggle.com/c/digit-recognizer/kernels).
 
-I'm very new to Python, machine learning, and data science, and expect to make plenty of mistakes and awkward choices, so of course any feedback is appreciated.
+I'm very new to Python, machine learning, and data science, and expect to make plenty of mistakes and awkward choices.  Note, however, that my interest is mainly in experience as a data scientist, not a developer/programmer, so issues with the readability or efficiency of scripts is less important to me than questions regarding the applicability of approaches chosen, or drawing proper conclusions from the data.  Beyond that, any feedback is always appreciated.
